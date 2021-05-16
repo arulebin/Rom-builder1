@@ -1,5 +1,5 @@
 #!/bin/bash
-MANIFEST=https://github.com/CipherOS/android_manifest
+MANIFEST=https://github.com/arulebin/android_manifest.git
 BRANCH=eleven
 
 mkdir -p /tmp/rom
